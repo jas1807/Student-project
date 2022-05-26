@@ -27,6 +27,7 @@ public class StudentDetails {
         }
     System.out.println("Learn operation");
         //pull operation
+        //fetch operation
     }
     
 }
